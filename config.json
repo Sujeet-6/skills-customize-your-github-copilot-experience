@@ -78,5 +78,24 @@
         }
       ]
     }
+    {
+      "id": "visualizations-matplotlib",
+      "title": "Insightful Visualizations with Matplotlib & Seaborn",
+      "description": "Intermediate assignment on data cleaning, exploratory data analysis, and visual storytelling using Pandas, Matplotlib, and Seaborn.",
+      "path": "assignments/visualizations-matplotlib",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
+    }
   ]
 }
